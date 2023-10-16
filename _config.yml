@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Basak Celik"
 title_separator          : "-"
 name                     : &name "Basak Celik"
-description              : &description "PhD Student in Cognitive Systems Laboratory at Northeastern ECE"
+description              : &description "PhD Candidate at Northeastern ECE"
 url                      : https://celikbasak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "celikbasak/celikbasak.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &Basak__Celik
+  username               : 
 facebook:
   username               :
   app_id                 :
