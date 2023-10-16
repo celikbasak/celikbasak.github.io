@@ -4,7 +4,7 @@ collection: research
 type: "Graduate"
 permalink: /research/
 venue: "Northeastern University"
-date: 2021-Current
+date: 2023
 location: "Boston, MA"
 redirect_from: 
   - /research/
