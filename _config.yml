@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Basak"
   avatar           : "basak_GoogleScholar.JPG"
-  bio              : "PhD Student at Northeastern ECE"
+  bio              : "PhD Candidate at Northeastern ECE"
   location         : "Boston, MA"
   employer         : # "Northeastern University
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@Basak__Celik"
+  twitter          : # "@Basak__Celik"
   vine             :
   weibo            :
   xing             :
