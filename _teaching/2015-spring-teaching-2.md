@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Unsupervised Machine Learning and Data Mining"
 collection: teaching
-type: "Workshop"
+type: "Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Northeastern University, Khoury College of Computer Sciences"
+date: 2022
+location: "Boston, MA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Head Teaching Assistant of DS 5230. Helped create and grade homeworks, held office hours, graded exams.
