@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/celikbasak/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0912-5243"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -177,7 +177,7 @@ kramdown:
 collections:
   teaching:
     output: false
-    permalink: /:collection/:path/
+    # permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
