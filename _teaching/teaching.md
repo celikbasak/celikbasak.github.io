@@ -2,7 +2,7 @@
 title: "Unsupervised Machine Learning and Data Mining"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/ds5230
 venue: "Northeastern University, Khoury College of Computer Sciences"
 date: 2022-09-06
 location: "Boston, MA"
