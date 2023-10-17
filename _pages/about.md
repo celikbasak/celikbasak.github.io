@@ -12,6 +12,8 @@ Hi there! This is Basak, a fourth year PhD candidate at [SPIRAL](https://web.nor
 
 Check out my recent works [User Training with Error Augmentation for Electromyogram-based Gesture Classification](https://arxiv.org/abs/2309.07289) and [Recursive Estimation of User Intent From Noninvasive Electroencephalography Using Discriminative Models](https://ieeexplore.ieee.org/abstract/document/10095715).
 
+Also check out [BciPy](https://github.com/CAMBI-tech/BciPy), our Python based open source Human-Machine Communication Interface!
+
 <!---
 Check out more work with [CAMBI](https://www.cambi.tech/)
 -->
