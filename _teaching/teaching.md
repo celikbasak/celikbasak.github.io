@@ -8,4 +8,4 @@ date: 2022-09-06
 location: "Boston, MA"
 ---
 
-Head Teaching Assistant of DS 5230. Helped create and grade homeworks, held office hours, graded exams.
+Head Teaching Assistant of DS 5230, Fall 2022 semester. Helped create and grade homeworks, held office hours, graded exams.
